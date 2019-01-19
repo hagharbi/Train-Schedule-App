@@ -1,0 +1,22 @@
+#jumbotron {
+    background-color: #003a5d;
+    padding: 30px;
+}
+
+#header {
+    height: 100px;
+}
+
+#header-content {
+    text-align: center;
+}
+
+#title {
+    color: white;
+}
+
+#logo {
+    height: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}

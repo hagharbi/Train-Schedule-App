@@ -20,3 +20,17 @@
     font-weight: 300;
     line-height: 1.2;
 }
+
+.card-header {
+    font-weight: bold;
+    color: white;
+    background-color: #003a5d;
+}
+
+.card {
+    border-color: #003a5d;
+}
+
+th {
+    font-weight: bold;
+}

@@ -33,4 +33,9 @@
 
 th {
     font-weight: bold;
+    text-align: center;
+}
+
+td {
+    text-align: center;
 }
